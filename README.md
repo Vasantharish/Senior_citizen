@@ -8,4 +8,5 @@ Detecting a person age more than sixty are considered to be Senior Citizen and m
 
 #To run notebook
 1. clone this repository
-2. Download dataset from 
+2. Download dataset from[UTK_face](https://github.com/Vasantharish/long_hair_detection/tree/3a252e9e7fb34a67f6002e1b4c278b56b2716d1b/UTKFace)
+3. Run the [notebook](https://github.com/Vasantharish/Senior_citizen/blob/6958511bea14de389938ca9a83143ab105fbae3b/Senior.ipynb)
